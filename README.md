@@ -35,4 +35,4 @@
 [![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](ur.amirbin@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amir-hossein-binesh-16607b168)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/uramirbin)
-[![Website](https://img.shields.io/badge/-Website-grey?style=for-the-badge&logo=google-chrome&logoColor=white)](https://t.me/uramirbin)
+[![Website](https://img.shields.io/badge/-Website-grey?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amirbin.ir)
