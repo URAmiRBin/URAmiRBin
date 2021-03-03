@@ -3,7 +3,7 @@
 ### About me
 
   - Studying Computer Engineering at Amirkabir University of Technology
-  - A game developer and 3D artist at Moraba games
+  - An Android game developer at Moraba games
   - In love with AI
   - Learning Go and GLSL
   - Hobbies: :closed_book: Books, :book: Manga, :pen: Writing, :headphones: Podcasts and :video_game: Video games
