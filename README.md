@@ -2,10 +2,10 @@
 
 ### About me
 
-  - Studying Computer Engineering at Amirkabir University of Technology
-  - An Android game developer at Moraba games
+  - Computer Engineering Undegrad student at Amirkabir University of Technology
+  - Android game developer at Moraba games
   - In love with AI
-  - Learning Go and GLSL
+  - Learning new things
   - Hobbies: :closed_book: Books, :book: Manga, :pen: Writing, :headphones: Podcasts and :video_game: Video games
 
 ### Skills
@@ -32,7 +32,7 @@
 
 ### Contact me
 
-[![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](ur.amirbin@gmail.com)
+[![Mail](https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ur.amirbin@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amir-hossein-binesh-16607b168)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/uramirbin)
 [![Website](https://img.shields.io/badge/-Website-grey?style=for-the-badge&logo=google-chrome&logoColor=white)](https://amirbin.ir)
