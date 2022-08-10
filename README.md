@@ -3,7 +3,7 @@
 ### About me
 
   - Graduated Computer Engineering at Amirkabir University of Technology
-  - Android Game Developer at Moraba games
+  - Unity Developer at Medrick Game Studio
   - In love with AI
   - Learning new things
   - Hobbies: :closed_book: Books, :book: Manga, :pen: Writing, :headphones: Podcasts and :video_game: Video games
