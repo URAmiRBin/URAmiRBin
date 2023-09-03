@@ -25,7 +25,7 @@ Hobbies: :closed_book: Books, :book: Manga, :pen: Writing, :headphones: Podcasts
 ### Other Skills
 
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/-Golang-29BEB0?style=for-the-badge&logo=go&logoColor=white)
 ![Postgre](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mongo](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
