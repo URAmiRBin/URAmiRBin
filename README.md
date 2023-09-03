@@ -4,6 +4,7 @@
 
   - Graduated Computer Engineering at Amirkabir University of Technology
   - Unity Developer at Medrick Game Studio
+  - Creating my own game worlds in Braindrops Studio
   - Developing my own indie titles
   - In love with AI and Simulating/Formulating the world
   - Learning new things
